@@ -2,7 +2,7 @@
 
 ## 🥳Purpose
 
-You can list bitcoins from Nomics api. You can search and see detail for bitcoins.
+You can list and search bitcoins from Nomics api. You can see detail for bitcoins. Api's documentation is 👇🏻https://nomics.com/docs/#tag/Currencies-Ticker 
 
 ## 🌟Screenshot
 <p align="center">
